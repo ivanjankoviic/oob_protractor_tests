@@ -1,1 +1,2 @@
-# oob_protractor_tests
+# oob-testing
+oob (and admin/coach) tests repo
